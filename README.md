@@ -3,7 +3,8 @@
 ## Presentation
 This library allows the construction and modification of a Tree of Shapes (ToS) [1] based on the modification strategies introduced in [2].
 Note that this implentation is only a proof-of-concept and is not updated anymore. 
-The C++ implementation is the implementation that is currently being worked on and can be found here https://github.com/jmendesf/ToSConOpCpp.
+
+The C++ implementation is the one that is currently being worked on and can be found here https://github.com/jmendesf/ToSConOpCpp.
 
 This library allows the modification of the ToS such that (1) the resulting structure remains the ToS of the image it reconstructs and (2) the signs of the gradients between the regions of the image remains unchanged before and after modification.
 
